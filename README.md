@@ -1,3 +1,5 @@
+![Uniswap Clone](app.png)
+
 # Uniswap Clone using Swing Widget
 This project demonstrates how you can create a Uniswap clone using Swings Widget.
 
