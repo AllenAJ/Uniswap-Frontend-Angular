@@ -5,7 +5,7 @@ This project demonstrates how you can create a Uniswap clone using Swings Widget
 Install the template with 
 - Create a free account with [Swing Platform](https://platform.swing.xyz/).
 - Setup your project and copy your unique project Identifier.
-- Update the contract address in the 'app.component.ts' file to use your widget.
+- Update the project ID in the 'app.component.ts' file to use your widget.
 
 ### Run Locally
 
